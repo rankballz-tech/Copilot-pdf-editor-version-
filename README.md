@@ -1,0 +1,2 @@
+# Copilot-pdf-editor-version-
+.
